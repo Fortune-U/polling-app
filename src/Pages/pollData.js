@@ -11,7 +11,7 @@ export const pollData = [
   },
   // Add more questions here...
   {
-    id: 13,
+    id: 3,
     question: "Who has the best hairline?",
     answers: ["kyle", "Devonte", "rafay", "Abdul"],
   },
