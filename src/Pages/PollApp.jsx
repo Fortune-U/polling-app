@@ -34,7 +34,7 @@ const PollApp = () => {
   };
 
   return (
-    <div className="flex  flex-col items-center h-dvh py-3 justify-between overflow-hidden">
+    <div className="flex  flex-col items-center h-dvh py-3 justify-between ">
         <div>
             {currentPage} / {pollData.length}
         </div>
